@@ -1,16 +1,22 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Mostafa Moayedpour</h1>
+<h1 align="center">Hi 👋, I'm Mostafa </h1>
 <h3 align="center">IT Support | Digital Workplace | System & Endpoint Administration</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamoayed66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
+<p align="Left">
+ I am an IT Support Specialist with a background in computer engineering.  
+ I have experience in 1st and 2nd level IT support, working with Windows clients, hardware, software, and basic network troubleshooting.
 
+ I enjoy helping users solve technical problems and keeping IT systems stable and secure.  
+ Currently, I am improving my skills in Microsoft environments and Digital Workplace technologies, with the goal of working in Germany.
+</p>
+  
 - 💼 **IT Support Specialist (1st / 2nd Level)**
 - 🖥️ Experience with **Windows Clients, Hardware, Software & IT Infrastructure**
 - 🏢 Interested in **Digital Workplace, Endpoint Management & Microsoft Environments**
