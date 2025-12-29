@@ -4,9 +4,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamoayed66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+   <img src="https://img.shields.io/badge/Windows-Client%20Support-blue?style=flat&logo=windows" />
+   <img src="https://img.shields.io/badge/Microsoft-Office%20365-orange?style=flat&logo=microsoft" />
+   <img src="https://img.shields.io/badge/Target-Germany-black?style=flat&logo=germany" />
+   <img src="https://img.shields.io/badge/Role-IT%20Support%20%7C%20System%20Admin-blue?style=flat" />
 </p>
-
----
 
 ## 👨‍💻 About Me
 <p align="Left">
