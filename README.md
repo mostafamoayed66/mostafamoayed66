@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=mostafamoayed66&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+
 ---
 
 ## 👨‍💻 About Me
@@ -78,6 +79,7 @@
 
 ---
 
+<!-- Profile GitHub Stats
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,6 +89,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamoayed66&theme=default" alt="github streak" />
 </p>
+-->
 
 ---
 
